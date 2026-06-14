@@ -30,6 +30,7 @@
 Pituitary tumors can be challenging to diagnose and delineate accurately from MRI scans. To support AI-assisted medical imaging, our team developed and evaluated hybrid deep learning architectures that combine the strengths of **Transformers** and **Convolutional Neural Networks (CNNs)** for automated tumor segmentation.
 
 🔍 **What we explored**
+
 • Swin UNETR architecture
 • Custom Swin V-Net architecture
 • Automated segmentation of pituitary tumors from 2D MRI scans
@@ -38,6 +39,7 @@ Pituitary tumors can be challenging to diagnose and delineate accurately from MR
 📊 **Key Results**
 
 **Swin UNETR**
+
 ✅ Dice Score: **0.8349**
 ✅ Validation Accuracy: **99.5%**
 ✅ Precision: **0.82**
@@ -46,6 +48,7 @@ Pituitary tumors can be challenging to diagnose and delineate accurately from MR
 ✅ ROC-AUC: **0.96**
 
 **Custom Swin V-Net**
+
 ✅ Dice Score: **0.8153**
 ✅ Validation Accuracy: **98.0%**
 ✅ Precision: **0.80**

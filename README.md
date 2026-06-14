@@ -25,7 +25,7 @@
    python app.py
 
 
-**Automated Pituitary Tumor Segmentation using Hybrid Transformer-CNN Models**.
+##**Automated Pituitary Tumor Segmentation using Hybrid Transformer-CNN Models**.
 
 Pituitary tumors can be challenging to diagnose and delineate accurately from MRI scans. To support AI-assisted medical imaging, our team developed and evaluated hybrid deep learning architectures that combine the strengths of **Transformers** and **Convolutional Neural Networks (CNNs)** for automated tumor segmentation.
 
